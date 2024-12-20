@@ -29,3 +29,6 @@ En el menu desplegable "Socios, nos vamos a encontrar con 3 secciones: Registrar
 
 - Cuenta(si estas logeado indica el nombre del usuario)
 En este menu desplegable podemos, si no iniciamos sesion: crear una cuenta, o iniciar sesion, y si ya iniciamos sesion, podemos: editar nuestro perfil y cerrar sesion.
+
+link al video: (perdon la calidad del audio)
+https://www.dropbox.com/scl/fi/qmb4yctknhmomdxat95wr/video-muestra-pf-python.mkv?rlkey=fiwyotuxvio67ocaqhb6hgnow&st=q46tup25&dl=0
