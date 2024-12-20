@@ -60,7 +60,7 @@ def actividad_formulario(request):
         if form_actividad.is_valid():
             informacion = form_actividad.cleaned_data
 
-            act = Actividad(nombre=informacion['nombre'],cuota=informacion['arancel'])
+            act = Actividad(nombre=informacion['nombre'],arancel=informacion['arancel'])
             act.save()
 
             return render(request, "AppRiver/hijo.html")
